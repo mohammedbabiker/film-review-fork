@@ -71,6 +71,7 @@ li {
 
 a {
   text-decoration: none;
+  color: white;
 }
 
 a,
@@ -129,7 +130,7 @@ body.active {
 }
 
 .h1 {
-  font-size: var(--fs-1);
+  font-size: var(--fs-2);
 }
 
 .h2 {
@@ -516,7 +517,7 @@ body.active {
 \*-----------------------------------*/
 
 .hero {
-  background: url("../images/hero-bg.jpg") no-repeat;
+  background: url("../images/wall1.png") no-repeat;
   background-size: cover;
   background-position: center;
   min-height: 750px;
